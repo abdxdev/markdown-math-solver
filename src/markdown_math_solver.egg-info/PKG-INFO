@@ -2,14 +2,13 @@ Metadata-Version: 2.4
 Name: markdown-math-solver
 Version: 1.0.0
 Summary: Process Python code embedded in LaTeX math blocks in Markdown files
-License: MIT
+License-Expression: MIT
 Project-URL: Homepage, https://github.com/abdxdev/markdown-math-solver
 Project-URL: Issues, https://github.com/abdxdev/markdown-math-solver/issues
 Keywords: markdown,latex,katex,math,solver,sympy
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Education
 Classifier: Intended Audience :: Science/Research
-Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.8
 Classifier: Programming Language :: Python :: 3.9
@@ -85,12 +84,12 @@ Result: $8$
 markdown-math-solver [-h] [-o OUTPUT] [-v] file
 ```
 
-| Argument           | Description                                      |
-| ------------------ | ------------------------------------------------ |
-| `file`             | Path to the Markdown file to process             |
-| `-o`, `--output`   | Output file path (default: `<input>.output.md`)  |
-| `-v`, `--version`  | Show version number                              |
-| `-h`, `--help`     | Show help message                                |
+| Argument          | Description                                     |
+| ----------------- | ----------------------------------------------- |
+| `file`            | Path to the Markdown file to process            |
+| `-o`, `--output`  | Output file path (default: `<input>.output.md`) |
+| `-v`, `--version` | Show version number                             |
+| `-h`, `--help`    | Show help message                               |
 
 ### Examples
 

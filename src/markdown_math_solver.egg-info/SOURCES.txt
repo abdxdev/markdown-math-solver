@@ -2,6 +2,7 @@ LICENSE
 README.md
 pyproject.toml
 src/markdown_math_solver/__init__.py
+src/markdown_math_solver/__main__.py
 src/markdown_math_solver/cli.py
 src/markdown_math_solver/solver.py
 src/markdown_math_solver.egg-info/PKG-INFO
