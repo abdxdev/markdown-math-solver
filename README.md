@@ -13,20 +13,6 @@ A command-line tool that **processes Python code embedded in LaTeX math blocks**
 pip install markdown-math-solver
 ```
 
-Or install from source:
-
-```bash
-git clone https://github.com/yourusername/markdown-math-solver.git
-cd markdown-math-solver
-pip install .
-```
-
-For development:
-
-```bash
-pip install -e .
-```
-
 ## Quick Start
 
 ### 1. Create a Markdown file with embedded `py()` blocks
