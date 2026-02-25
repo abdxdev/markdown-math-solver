@@ -2,6 +2,10 @@
 
 A command-line tool that **processes Python code embedded in LaTeX math blocks** in Markdown files. Define expressions, bind parameters, evaluate math, and generate computed results.
 
+## Demo
+
+[![Watch the demo](screenshots/screenshot_1.png)](https://youtu.be/X-ZKafMsgVU)
+
 ## Installation
 
 ```bash
