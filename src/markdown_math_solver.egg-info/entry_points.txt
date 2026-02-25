@@ -1,0 +1,2 @@
+[console_scripts]
+markdown-math-solver = markdown_math_solver.cli:main

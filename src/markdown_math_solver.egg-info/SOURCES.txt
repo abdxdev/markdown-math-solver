@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/markdown_math_solver/__init__.py
+src/markdown_math_solver/cli.py
+src/markdown_math_solver/solver.py
+src/markdown_math_solver.egg-info/PKG-INFO
+src/markdown_math_solver.egg-info/SOURCES.txt
+src/markdown_math_solver.egg-info/dependency_links.txt
+src/markdown_math_solver.egg-info/entry_points.txt
+src/markdown_math_solver.egg-info/requires.txt
+src/markdown_math_solver.egg-info/top_level.txt
+tests/test_solver.py
